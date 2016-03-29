@@ -1,0 +1,1 @@
+Project Gamefish is a single player game. You are a fish in an Aquarium. The goal is to eat as many fish as you can before you get eaten by the big fish
